@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chess-Knight-Exercises/static/css/main.b97d2dcb.css",
+    "main.js": "/Chess-Knight-Exercises/static/js/main.3e2bbb15.js",
+    "static/js/787.c133e0af.chunk.js": "/Chess-Knight-Exercises/static/js/787.c133e0af.chunk.js",
+    "index.html": "/Chess-Knight-Exercises/index.html",
+    "main.b97d2dcb.css.map": "/Chess-Knight-Exercises/static/css/main.b97d2dcb.css.map",
+    "main.3e2bbb15.js.map": "/Chess-Knight-Exercises/static/js/main.3e2bbb15.js.map",
+    "787.c133e0af.chunk.js.map": "/Chess-Knight-Exercises/static/js/787.c133e0af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97d2dcb.css",
+    "static/js/main.3e2bbb15.js"
+  ]
+}
