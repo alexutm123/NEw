@@ -17,7 +17,8 @@ function Rules(props){
         <Container>
             <Title>Перенаправьте коня на <Highlighted>выделенный квадрат</Highlighted></Title>
             
-         <span style={context.exercise < 3 ? visibleStyle : invisibleStyle { color: "black" }}>
+        <span style={{ ...context.exercise < 3 ? visibleStyle : invisibleStyle, color: "black" }}>
+
   Цель состоит в том, чтобы переместить коня по порядку.
   <OrderRoute ascending={context.exercise !== 1} />, с ограничением
   что вы не можете переместить его на контролируемые квадраты черными фигурами.

@@ -279,11 +279,4 @@ const LeftContainer = styled.div`
     }
 `;
 
-const Link = styled.a`
-    color: #4183c4;
-    text-decoration: none;
-    font-weight: bold;
-    &:hover {
-        text-decoration: underline;
-    }
-`;
+
